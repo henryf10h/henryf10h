@@ -1,7 +1,7 @@
 ### 👋 Hi there! Welcome to my GitHub profile!
 
-Building cool apps with withs at ReflecterLabs
+Building cool apps @ ReflecterLabs.
 
-At the intersection of Blockchain and AI.
+Blockchain and AI.
 
 
